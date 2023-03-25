@@ -1,0 +1,7 @@
+<suite name="BDSTALL Automation Suite">
+    <test name="All test  successfully run ">
+        <classes>
+            <class name="testrunner.TestRunner"/>
+        </classes>
+    </test>
+</suite>
